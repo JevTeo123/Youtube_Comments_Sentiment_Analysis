@@ -19,7 +19,7 @@
 The purpose of this project is to scrape comments off youtube videos to perform sentiment analysis on these comments. This could help understand the audience feedback on specific videos and improve contents of youtube videos and etc.
 
 ### Built With
-<img src="images_for_readme/image-1.png" width="200"><br>
+<img src="image-1.png" width="200"><br>
 <img src="images_for_readme/image.png" width="200"><br>
 <img src="images_for_readme/image-2.png" width="200"><br>
 <img src="images_for_readme/image-3.png" width="200">
