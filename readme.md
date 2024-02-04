@@ -20,9 +20,9 @@ The purpose of this project is to scrape comments off youtube videos to perform 
 
 ### Built With
 <img src="image-1.png" width="200"><br>
-<img src="images_for_readme/image.png" width="200"><br>
-<img src="images_for_readme/image-2.png" width="200"><br>
-<img src="images_for_readme/image-3.png" width="200">
+<img src="image.png" width="200"><br>
+<img src="image-2.png" width="200"><br>
+<img src="image-3.png" width="200">
 
 # Getting Started
 Before starting on the training of the model for sentiment analysis, comment_scraper class can be called and used together with the youtube video ID to scrape all the first level comments from the comments section.
